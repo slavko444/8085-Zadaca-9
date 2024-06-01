@@ -72,7 +72,8 @@ JNZ CIKL ;Дали сме ги испратиле сите
 ```
 
 
- ![Screenshot (1)](https://github.com/slavko444/8085-Zadaca-4/blob/main/Source%20code%20image.png)
+ ![Screenshot (1)](https://github.com/slavko444/8085-Zadaca-9/blob/main/code%209.png)
+ ![Screenshot (1)](https://github.com/slavko444/8085-Zadaca-9/blob/main/code%209.1.png)
  
 **Develop by:**
 
